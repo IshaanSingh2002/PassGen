@@ -15,4 +15,16 @@ the generator produces unpredictable passwords to enhance your online security.
    cd random-password-generator
 
 3. Run the password_generator.py script:
+   ```bash
+   python3 password_generator.py
+
+4. Enter the desired length of the password (default is 128 characters).
+
+5. The generator will create a password containing a mix of lowercase and uppercase letters, numbers, and symbols.
+
+6. Copy the suggested password for use in your online accounts or applications.
+
+## Contribution
+
+Contributions to enhance and improve this random password generator are welcome! Feel free to fork the repository, make your changes, and create a pull request.
 
